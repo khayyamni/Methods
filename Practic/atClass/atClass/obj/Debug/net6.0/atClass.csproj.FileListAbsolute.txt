@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\insideLesson\CSharp\Practic\atClass\atClass\bin\Debug\net6.0\atClass.exe
+C:\Users\user\Desktop\insideLesson\CSharp\Practic\atClass\atClass\bin\Debug\net6.0\atClass.deps.json
+C:\Users\user\Desktop\insideLesson\CSharp\Practic\atClass\atClass\bin\Debug\net6.0\atClass.runtimeconfig.json
+C:\Users\user\Desktop\insideLesson\CSharp\Practic\atClass\atClass\bin\Debug\net6.0\atClass.dll
+C:\Users\user\Desktop\insideLesson\CSharp\Practic\atClass\atClass\bin\Debug\net6.0\atClass.pdb
+C:\Users\user\Desktop\insideLesson\CSharp\Practic\atClass\atClass\obj\Debug\net6.0\atClass.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\insideLesson\CSharp\Practic\atClass\atClass\obj\Debug\net6.0\atClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\insideLesson\CSharp\Practic\atClass\atClass\obj\Debug\net6.0\atClass.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\insideLesson\CSharp\Practic\atClass\atClass\obj\Debug\net6.0\atClass.AssemblyInfo.cs
+C:\Users\user\Desktop\insideLesson\CSharp\Practic\atClass\atClass\obj\Debug\net6.0\atClass.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\insideLesson\CSharp\Practic\atClass\atClass\obj\Debug\net6.0\atClass.dll
+C:\Users\user\Desktop\insideLesson\CSharp\Practic\atClass\atClass\obj\Debug\net6.0\refint\atClass.dll
+C:\Users\user\Desktop\insideLesson\CSharp\Practic\atClass\atClass\obj\Debug\net6.0\atClass.pdb
+C:\Users\user\Desktop\insideLesson\CSharp\Practic\atClass\atClass\obj\Debug\net6.0\atClass.genruntimeconfig.cache
+C:\Users\user\Desktop\insideLesson\CSharp\Practic\atClass\atClass\obj\Debug\net6.0\ref\atClass.dll
